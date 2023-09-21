@@ -24,6 +24,7 @@
             Console.WriteLine(personalId);
             Console.Write("Numer pracownika :");
             Console.WriteLine(idWorker);
+            Console.WriteLine("The End");
         }
     }
 }
