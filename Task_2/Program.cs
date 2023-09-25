@@ -8,7 +8,7 @@
             char second = 'B';
             char third  = 'C';
 
-            Console.WriteLine(third+" "+second+" "+first);
+            Console.WriteLine(third + " " + second + " " + first);
         }
     }
 }

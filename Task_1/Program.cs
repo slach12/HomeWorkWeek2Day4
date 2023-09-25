@@ -10,7 +10,7 @@
             int age = 39;
             char sex = 'm';
             string personalId = "1234567890";
-            uint idWorker = 2509324094;
+            string idWorker = "2509324094";
 
             Console.Write("Imie :");
             Console.WriteLine(name);
